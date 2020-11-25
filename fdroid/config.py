@@ -1,4 +1,4 @@
-repo_url = "https://calyxos.gitlab.io/calyx-fdroid-repo/fdroid/"
+repo_url = "https://calyxos.gitlab.io/fdroid-repo-emulator/fdroid/"
 repo_name = "The Calyx Institute F-Droid repo (testing)"
 repo_icon = "fdroid-icon.png"
 repo_description = """
